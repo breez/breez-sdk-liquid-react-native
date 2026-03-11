@@ -1,5 +1,6 @@
 rust:
-  directory: ../../
+  repo: https://github.com/breez/breez-sdk-liquid
+  rev: b97620683c00bc49470fb726debaf1af365616be
   manifestPath: lib/bindings/Cargo.toml
 bindings:
   cpp: cpp/generated
